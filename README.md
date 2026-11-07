@@ -1,5 +1,7 @@
 Adaptações para o [BadBlood](https://github.com/davidprowe/BadBlood) criar ambientes de Active Directory com nomes e sobrenomes brasileiros e OUs em português.
 
+<img src="exemplo.png" width=50% height=50%>
+
 
 ## 📁 Arquivos de nomes
 
@@ -18,9 +20,6 @@ Substituir o arquivo correspondente no diretório `AD_OU_CreateStructure` do Bad
 | Arquivo | Conteúdo |
 |---|---|
 | `3lettercodes.csv` | Setores organizacionais em português |
-
-
-<img src="exemplo.png" width=50% height=50%>
 
 # 🔧 Correção no script para criação dos computadores
 
