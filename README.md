@@ -19,7 +19,8 @@ Substituir o arquivo correspondente no diretório `AD_OU_CreateStructure` do Bad
 |---|---|
 | `3lettercodes.csv` | Setores organizacionais em português |
 
-![Imagem exemplo](exemplo.png)
+
+<img src="exemplo.png" width=50% height=50%>
 
 # 🔧 Correção no script para criação dos computadores
 
